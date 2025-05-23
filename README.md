@@ -1,9 +1,9 @@
 
 ### Hello, my name is Hiago Da Silva 👋
 
-[![Blog](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://blog-hiago.netlify.app/)
+[![Blog](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfoliohiago.netlify.app/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hiago-da-silva-58b103186/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/http_hiago.js/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hgsilvjzx/)
 
 
 ![Hiago GitHub stats](https://github-readme-stats.vercel.app/api?username=hiagosilva12&show_icons=true&theme=tokyonight)
